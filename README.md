@@ -3,7 +3,10 @@
 </div>
 
 
-# <div align="center">I'm Kamil, a full-time SEO Specialist and a programming enthusiast, especially in php 👨‍💻 I improve my skills every day 🚀</div>
+# <div align="center">Full-time SEO Specialist <br> a programming enthusiast</div>
+
+
+- 🚀 I improve my skills every day  📚
 
 
 - 🌱 Currently I am developing in PHP
@@ -12,7 +15,7 @@
 - 🧠 If I can't do something today, ask me tomorrow 💪
 
 
-- ⚡ fun fact: I was a policeman, I became a programmer
+- ⚡ fun fact: I was a policeman 👮, I became a programmer 👨‍💻
 
 
 <br/>
@@ -74,3 +77,23 @@
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=KamilNiegowski
 &show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+
+<br/>
+
+
+
+<br/>
+
+
+
+<br/>
+
+
+
+<br/>
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
