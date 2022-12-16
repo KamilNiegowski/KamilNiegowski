@@ -75,4 +75,4 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilNiegowski&hide_border=true&layout=compact" align="left" />
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=thomasync&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=thomasync&show_icons=true&count_private=true&hide_border=true" align="right" />
