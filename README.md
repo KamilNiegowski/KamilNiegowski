@@ -73,6 +73,12 @@
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilNiegowski&hide_border=true&layout=compact" align="left" style="padding-right: 0px !important;" />
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KamilNiegowski&show_icons=true&count_private=true&hide_border=true" align="right" style="padding-left: 0px !important;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilNiegowski&hide_border=true&layout=compact" align="left" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KamilNiegowski&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>
