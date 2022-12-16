@@ -3,7 +3,7 @@
 </div>
 
 
-# <div align="center">Full-time SEO Specialist <br> a programming enthusiast</div>
+# <div align="center">Full-time SEO Specialist and a programming enthusiast</div>
 
 
 - 🚀 I improve my skills every day  📚
@@ -75,25 +75,4 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilNiegowski&hide_border=true&layout=compact" align="left" />
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=KamilNiegowski
-&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
-
-<br/>
-
-
-
-<br/>
-
-
-
-<br/>
-
-
-
-<br/>
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KamilNiegowski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
