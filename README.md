@@ -1,12 +1,5 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
-</div>
+# <div align="center">Junior Php Developer</div>
 
-
-# <div align="center">Developer Full Stack / Angular - NodeJS</div>
-
-### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
 
 - 🌱 I’m currently learning ThreeJS / Blender
 
