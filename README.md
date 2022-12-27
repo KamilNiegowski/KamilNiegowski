@@ -12,7 +12,7 @@
 - 🌱 Currently I am developing in PHP
 
 
-- 🧠 If I can't do something today, ask me tomorrow 💪
+- 🧠 If I can't do something today, ask me to do it tomorrow 💪
 
 
 - ⚡ fun fact: I was a policeman 👮, I became a programmer 👨‍💻
