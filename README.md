@@ -4,13 +4,13 @@
 - 🚀 I improve my skills every day  📚
 
 
-- 🌱 Currently I am developing in PHP
+- 🌱 Currently I'm developing in PHP
 
 
 - 🧠 If I can't do something today, ask me to do it tomorrow 💪
 
 
-- ⚡ fun fact: I was a policeman 👮, I became a programmer 👨‍💻
+- ⚡ Fun fact: I was a policeman 👮, I became a programmer 👨‍💻
 
 
 <br/>
