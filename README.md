@@ -1,4 +1,4 @@
-# <div align="center">Full-time SEO Specialist and a programming enthusiast</div>
+# <div align="center">Programming enthusiast</div>
 
 
 - 🚀 I improve my skills every day  📚
